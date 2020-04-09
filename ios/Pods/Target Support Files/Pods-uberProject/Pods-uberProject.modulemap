@@ -1,0 +1,6 @@
+module Pods_uberProject {
+  umbrella header "Pods-uberProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
